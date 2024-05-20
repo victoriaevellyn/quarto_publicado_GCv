@@ -1,0 +1,7 @@
+---
+title: "Trabalho final GC e visualizadores"
+---
+
+Esse é um website quarto, criado por Victória Sousa para uma entrega para a disciplina de "GC e visualizadores" do MBA de Ciência dos Dados da UFF.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

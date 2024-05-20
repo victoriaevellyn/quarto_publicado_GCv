@@ -1,0 +1,1 @@
+GC e visualizadores inicial
